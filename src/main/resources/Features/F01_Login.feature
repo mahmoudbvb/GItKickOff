@@ -1,5 +1,5 @@
 ## login english file
-Feature: Login Function
+Feature: Login Function Tests
   Scenario: user can login with valid credentials
     Given user opens website URL
     When user enters valid username
