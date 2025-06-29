@@ -1,1 +1,3 @@
 # GItKickOff
+
+## project notes
